@@ -1,9 +1,9 @@
 body {
-  background-image: url('/images/背景.png); /* 你的图片路径 */
-  background-attachment: fixed; /* 背景固定，不随滚动条滚动 */
-  background-position: center;  /* 图片居中 */
-  background-size: cover;       /* 图片覆盖整个屏幕 */
-  background-repeat: no-repeat; /* 不重复 */
+  background-image: url('/images/背景.png);
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 .post {
   background: rgba(255, 255, 255, 0.85) !important;
