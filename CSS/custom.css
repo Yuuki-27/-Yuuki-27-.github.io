@@ -11,3 +11,6 @@ body {
 .widget {
   background: rgba(255, 255, 255, 0.85) !important;
 }
+.post-content, .post-toc, .post-footer, article {
+  background: rgba(255, 255, 255, 0.85) !important;
+}
