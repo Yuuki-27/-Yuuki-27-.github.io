@@ -1,0 +1,6 @@
+body {
+  background-image: url('/images/背景.png') !important;
+  background-position: center !important;
+  background-size: cover !important;
+  background-repeat: no-repeat !important;
+}
